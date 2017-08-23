@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/ryan/snehal_ROS-I/perception_driven_ws/src/devel -DCMAKE_INSTALL_PREFIX=/home/ryan/snehal_ROS-I/perception_driven_ws/src/install -G Unix Makefiles
